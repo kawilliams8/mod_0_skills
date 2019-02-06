@@ -1,0 +1,17 @@
+Items in a restaurant 3
+
+Server Attributes:
+FirstName (string)
+LastName (string)
+YearsExperience (float)
+FavoriteMenuItems (array)
+DrinkRecommendations (array)
+NumberOfTables (int)
+
+
+Server Methods:
+DistributeMenus()
+RecordDrinkOrders()
+RecordAppetizerOrders()
+RecordFoodOrders()
+ReportOrdersToKitchen()

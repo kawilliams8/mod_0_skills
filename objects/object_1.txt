@@ -1,0 +1,14 @@
+Object in a restaurant
+
+SaladBar Attributes:
+CroutonsAvailable (Boolean)
+LeafyGreensOptions(array)
+Cheeses(array)
+SaladDressings(array)
+NumberOfOils(int)
+NumberOfVinegars(int)
+
+SaladBar Methods:
+RefillCheese()
+RefillDressings()
+RefillLeafyGreens()

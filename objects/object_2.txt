@@ -1,0 +1,16 @@
+Item in a restaurant 2
+
+Customer Attributes:
+FirstName (string)
+LastName (string)
+PeopleInGroup (int)
+ChairPosition (int)
+OrderedAppetizer (Boolean)
+AppetizersOrdered (array)
+OrderedDrinks (Boolean)
+DrinksOrdered (array)
+
+CustomerMethods:
+ReadMenu()
+ChooseDrink()
+ChooseMainCourse()
