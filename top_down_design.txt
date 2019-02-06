@@ -1,0 +1,63 @@
+Getting food at a restaurant:
+
+1. Choose restaurant
+  1.1 Consider options
+    1.1.1 Burgers
+    1.1.2 Pizza
+    1.1.3 Chinese
+    1.1.4 Pasta
+    1.1.5 Fast food
+      1.2.1 McDonalds
+      1.2.2 Burger King
+      1.2.3 Chipotle
+      1.2.4 Taco Bell
+  1.2 Discuss options with people going to restaurant with you
+    1.2.1 Dietary needs
+    1.2.2 Recent visits/too soon to repeat
+    1.2.3 Which restaurants are closest to everyone's location
+  1.3 Research daily specials
+  	1.3.1 Soup du jour
+  	1.3.2 Happy hour deals
+  1.4 Consider ambience
+  	1.4.1 Sports bar
+  	1.4.2 Quiet tables and candlelight
+  	1.4.3 Buffet
+  	1.4.4 Bar with snacks only
+2. Go to restaurant
+  2.1 Determine who will drive
+  2.2 How many passengers can they carry
+  2.3 Do you need additional vehicles
+  2.4 Pick up all parties in group
+  2.5 Drive the car/s to the selected restaurant
+  2.6 Locate a parking space
+  2.7 Exit and lock the vehicle
+3. Enter restaurant
+  3.1 Walk to front door
+  3.2 One person opens the door
+  3.3 Enter the building
+  3.4 Walk to host stand (if pertinent)
+  3.5 Walk to counter (if pertinent)
+  3.6 Wait for table to become available
+  3.7 Locate a place to sit if wait will be extended
+4. Sit at a table
+  4.1 Follow host to selected table
+  4.2 Choose a set
+  4.3 Pull out chair
+  4.4 Hang coat and purse on chair
+  4.5 Sit
+5. Place drink order
+  5.1 Wait for server to greet you and request drink order
+  5.2 Inform server of your drink preference
+6. Look at menu
+  6.1 Receive menu from server
+  6.2 Look at options for main course
+  6.3 Look at options for side dishes
+  6.4 Choose an appetizer for the table
+  6.5 Choose a combination of main course and side dishes
+7. Place food order
+  7.1 Wait for server to ask for you order
+  7.1 Tell server which items you have selected
+8. Wait for food to be prepared
+  8.1 Chat with your group
+9. Receive food
+  9.1 Eat!
